@@ -1,2 +1,29 @@
+body {
+font-family: sans-serif;
+}
 
-/* Your CSS Code here. */
+img {
+width: 200px;
+height: 200px;
+}
+
+h1 {
+font-size: 24px;
+}
+
+a {
+color: blue;
+}
+
+section {
+border: 1px solid black;
+padding: 10px;
+}
+
+#skills {
+background-color: #eee;
+}
+
+#projects {
+background-color: #fff;
+}
